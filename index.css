@@ -60,7 +60,7 @@ textarea {
 
 /*Sets up the display as a block */
 .show {
-display: block;
+  display: block;
 }
 
 /*This hides the notification which is Appointment was stored: localStorage */

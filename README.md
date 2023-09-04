@@ -20,3 +20,7 @@ Allows the user to schdeul in their to do list from 9 a.m. until 5 p.m.
 # Images
 
 ![alt text]()
+
+# Comment
+
+The project was pushed up and that definetely helped in understading J query and 3rd party API's. This project helped me most in understanding HTML, localstorage and Javascript.
