@@ -19,7 +19,10 @@ Allows the user to schdeul in their to do list from 9 a.m. until 5 p.m.
 
 # Images
 
-![alt text]()
+![alt text](./assets/screenshot1.png)
+![alt text](./assets/screenshot2.png)
+![alt text](./assets/screenshot3.png)
+
 
 # Comment
 
