@@ -57,3 +57,15 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/*Sets up the display as a block */
+.show {
+display: block;
+}
+
+/*This hides the notification which is Appointment was stored: localStorage */
+.notification {
+  padding-bottom: 10px;
+  color: black;
+  display: none;
+}
