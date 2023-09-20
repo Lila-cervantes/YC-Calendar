@@ -19,7 +19,7 @@ $(document).ready(function () {
   });
     
   function hourUpdater() {
-    // this retieves the current number of hours
+    //  retieves the current number of hours
     var hourATM = dayjs().hour();
     //this is a loop of the time-blocks. which are past present and future.
     $('.time-block').each(function () {
